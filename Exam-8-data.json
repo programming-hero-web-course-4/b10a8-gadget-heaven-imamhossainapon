@@ -1,0 +1,126 @@
+[
+    {
+      "product_id": "101",
+      "product_title": "Wireless Bluetooth Headphones",
+"Name":"Dell 45",
+      "product_image": "https://i.ibb.co.com/mNH3Ptc/premium-photo-1681566925324-ee1e65d9d53e.jpg",
+      "category": "leptop",
+      "price": 75,
+      "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+      "availability": "In stock",
+      "rating": 4.5
+    },
+    {
+        "Name":"MacBook Air",
+      "product_id": "102",
+      "product_title": "Stainless Steel Water Bottle",
+      "product_image": "https://i.ibb.co.com/g4zgTyh/photo-1718279603161-7b88c7f84860.jpg",
+      "category": "leptop",
+      "price": 55,
+      "description": "Durable and eco-friendly stainless steel water bottle, keeps drinks cold for up to 24 hours.",
+      "availability": "In stock",
+      "rating": 4.7
+    },
+    {
+        "Name":"hp 231",
+      "product_id": "103",
+      "product_title": "Ergonomic Office Chair",
+      "product_image": "https://i.ibb.co.com/ZW0tk90/photo-1718279602896-6df6c34f61e5.jpg",
+      "category": "leptop",
+      "price": 120,
+      "description": "Comfortable ergonomic office chair with lumbar support and adjustable height.",
+      "availability": "Out of stock",
+      "rating": 4.3
+    },
+    {
+        "Name":"Lenevo",
+      "product_id": "104",
+      "product_title": "Smartphone Tripod Stand",
+      "product_image": "https://i.ibb.co.com/NjpgNdH/photo-1718279599787-7ae48695bfd1.jpg",
+      "category": "leptop",
+      "price": 65,
+      "description": "Lightweight and portable tripod stand for smartphones with adjustable height and 360-degree rotation.",
+      "availability": "In stock",
+      "rating": 4.6
+    },
+    {
+        "Name":"iphone 15 pro max",
+      "product_id": "105",
+      "product_title": "Gaming Mouse",
+      "product_image": "https://i.ibb.co.com/9bfD92S/premium-photo-1681849847324-f2e82ccb2b9f.jpg",
+      "category": "mobile",
+      "price": 85,
+      "description": "High-precision gaming mouse with customizable buttons and RGB lighting.",
+      "availability": "In stock",
+      "rating": 4.8
+    },
+    {
+        "Name":"samsung s20 ultra",
+      "product_id": "106",
+      "product_title": "Smart LED Bulb",
+      "product_image": "  https://i.ibb.co.com/nQ7TjT0/photo-1533022139390-e31c488d69e2.jpg",
+      "category": "mobile",
+      "price": 50,
+      "description": "Smart LED bulb with multiple color options, voice control, and energy-saving features.",
+      "availability": "In stock",
+      "rating": 4.4
+    },
+    {
+        "Name":"xiomi",
+      "product_id": "107",
+      "product_title": "Portable Power Bank",
+      "product_image": "https://i.ibb.co.com/6Dr3YYn/photo-1599950753894-d84cbcce4e95.jpg",
+      "category": "mobile",
+      "price": 90,
+      "description": "High-capacity portable power bank with fast charging capabilities.",
+      "availability": "Out of stock",
+      "rating": 4.2
+    },
+    {
+        "Name":"oppo",
+      "product_id": "108",
+      "product_title": "Digital Kitchen Scale",
+      "product_image": "https://i.ibb.co.com/sqYpL44/photo-1592578629295-73a151d69c96.jpg",
+      "category": "mobile",
+      "price": 60,
+      "description": "Accurate digital kitchen scale with tare function and easy-to-read display.",
+      "availability": "In stock",
+      "rating": 4.6
+    },
+  
+    {
+        "Name":"samsung",
+      "product_id": "109",
+      "product_title": "Noise-Cancelling Earbuds",
+      "product_image": "https://i.ibb.co.com/7nrz6PL/photo-1505740420928-5e560c06d30e.jpg",
+      "category": "headphone",
+      "price": 150,
+      "description": "Compact noise-cancelling earbuds with high-quality audio and touch controls.",
+      "availability": "In stock",
+      "rating": 4.5
+    },
+    {
+        "Name":"apple",
+      "product_id": "110",
+      "product_title": "Smart Watch",
+      "product_image": "https://i.ibb.co.com/wQMQzHf/photo-1484704849700-f032a568e944.jpg",
+      "category": "headphone",
+    
+      "price": 150,
+      "description": "Feature-rich smartwatch with heart rate monitoring, GPS, and fitness tracking.",
+      "availability": "In stock",
+      "rating": 4.7
+    },
+    {
+        "Name":"vivo",
+      "product_id": "111",
+      "product_title": "Laptop Cooling Pad",
+      "product_image": "https://i.ibb.co.com/1ZVdT2K/premium-photo-1679513691474-73102089c117.jpg",
+      "category": "headphone",
+      
+      "price": 900,
+      "description": "Efficient laptop cooling pad with adjustable fan speed and ergonomic design.",
+      "availability": "In stock",
+      "rating": 4.3
+    }
+  ]
